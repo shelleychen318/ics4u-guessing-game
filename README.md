@@ -1,2 +1,2 @@
 # ics4u-guessing-game
-A number guessing game built in Java with GUI for the ICS4U course.
+A GUI number guessing game built in Java for the ICS4U course.
